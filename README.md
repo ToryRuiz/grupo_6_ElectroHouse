@@ -22,7 +22,7 @@ Para tener un solido concepto de la imagen del proyecto destacamos las utilidade
 
 ## Integrantes del grupo
 - Duran Daniel Alejandro: estudiante, 21 años, autodidacta y entusiasta para aprender sobre informatica.
-- Zenón Maximiliano Ezequiel: Tengo 16 años, estudio en la EETN Nº1 Del Carmen, Me gusta todo lo relacionado con la informatica y me gusta preguntarme como funciona cada cosa de esta.
+- Zenón Maximiliano Ezequiel: Tengo 16 años, estudio en la EETN Nº1 De la ciudad del Carmen, Me gusta todo lo relacionado con la informatica y me gusta preguntarme como funciona cada cosa de esta.
 - Integrante: Descripcion
 - Integrante: Descripcion
 - Integrante: Descripcion
